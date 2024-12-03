@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tarek Alkhatib</h1>
 <h3 align="center">Code Ninja by Day, Tech Explorer by Night</h3>
 
-<img aligh="left" alt="coding" width="600" src="https://cdn-blog.adafruit.com/uploads/2021/12/Ninjas_HiFive_5.gif">
+<img aligh="center" alt="coding" src="https://cdn-blog.adafruit.com/uploads/2021/12/Ninjas_HiFive_5.gif">
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarek-al-khatib" alt="tarek-al-khatib" /></a> </p>
 
