@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tarek Alkhatib</h1>
 <h3 align="center">Code Ninja by Day, Tech Explorer by Night</h3>
 
-<div style="text-align:center">
+<div style="text-align:center" align="center" width="100%">
   <img aligh="center" alt="coding" width="550" src="https://cdn-blog.adafruit.com/uploads/2021/12/Ninjas_HiFive_5.gif">
 </div>
 
