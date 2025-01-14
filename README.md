@@ -26,12 +26,12 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=tarek-al-khatib&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=8a2be2&title_color=8a2be2&icon_color=8a2be2" 
     alt="Top Languages" 
-    style="height: 200px; margin: 10px;"
+    style="height: 200px; width: 40%;margin: 10px;"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api?username=tarek-al-khatib&show_icons=true&locale=en&bg_color=000000&text_color=8a2be2&title_color=8a2be2&icon_color=8a2be2" 
     alt="GitHub Stats" 
-    style="height: 200px; margin: 10px;"
+    style="height: 200px; width: 50%; margin: 10px;"
   />
 </div>
 
